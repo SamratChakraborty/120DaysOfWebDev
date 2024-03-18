@@ -11,7 +11,7 @@ Welcome to the Jacket Webpage project! This project showcases a simple webpage d
 - [License](#license)
 
 ## Demo
-You can see a live demo of the Jacket Webpage [here](https://example.com).
+You can see a live demo of the Jacket Webpage [https://jacketcart.vercel.app/].
 
 ## Features
 - Responsive design: The webpage is designed to adapt to various screen sizes, ensuring optimal viewing experience across devices.
