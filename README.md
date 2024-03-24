@@ -22,12 +22,6 @@ You can see a live demo of the Jacket Webpage [https://jacketcart.vercel.app/].
 - HTML: Utilized for structuring the content of the webpage.
 - CSS: Employed for styling and adding visual enhancements to the webpage.
 
-## Setup
-To run this project locally, follow these steps:
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/jacket-webpage.git`
-2. Navigate to the project directory: `cd jacket-webpage`
-3. Open the `index.html` file in your preferred web browser.
-
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 1. Fork this repository.
